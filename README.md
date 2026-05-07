@@ -89,7 +89,7 @@ Profit-focused insights, including:
 - discount impact on profit
 - loss-making categories/products
 - profit margin by sub-category
-<img width="1289" height="719" alt="Screenshot 2026-04-18 at 21 06 19" src="https://github.com/MohammedABBAKAR/Smart-Logistics-Dashboard-Analyse-des-retards-logistiques/blob/8b75158ec4aa05c8764729a2b12be2650e743a8c/smart%20(2).png" />
+<img width="1289" height="719" alt="Screenshot 2026-04-18 at 21 06 19" src="https://github.com/MohammedABBAKAR/Retail-Sales-Supply-Chain-Descriptive-Analysis/blob/master/smart%20(3).png" />
 
 ### 4. Returns & Operations
 Operational and returns analysis, including:
