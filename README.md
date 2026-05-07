@@ -74,6 +74,7 @@ A high-level summary of core business KPIs:
 - orders
 - customers
 - return rate
+<img width="1289" height="719" alt="Screenshot 2026-04-18 at 21 06 19" src="https://github.com/MohammedABBAKAR/Smart-Logistics-Dashboard-Analyse-des-retards-logistiques/blob/8b75158ec4aa05c8764729a2b12be2650e743a8c/smart%20(2).png" />
 
 ### 2. Sales Analysis
 Analysis of sales performance by:
@@ -81,18 +82,21 @@ Analysis of sales performance by:
 - category
 - product
 - region
+<img width="1289" height="719" alt="Screenshot 2026-04-18 at 21 06 19" src="https://github.com/MohammedABBAKAR/Smart-Logistics-Dashboard-Analyse-des-retards-logistiques/blob/8b75158ec4aa05c8764729a2b12be2650e743a8c/smart%20(2).png" />
 
 ### 3. Profitability Analysis
 Profit-focused insights, including:
 - discount impact on profit
 - loss-making categories/products
 - profit margin by sub-category
+<img width="1289" height="719" alt="Screenshot 2026-04-18 at 21 06 19" src="https://github.com/MohammedABBAKAR/Smart-Logistics-Dashboard-Analyse-des-retards-logistiques/blob/8b75158ec4aa05c8764729a2b12be2650e743a8c/smart%20(2).png" />
 
 ### 4. Returns & Operations
 Operational and returns analysis, including:
 - return rate
 - top returned products or regions
 - average delivery days
+<img width="1289" height="719" alt="Screenshot 2026-04-18 at 21 06 19" src="https://github.com/MohammedABBAKAR/Smart-Logistics-Dashboard-Analyse-des-retards-logistiques/blob/8b75158ec4aa05c8764729a2b12be2650e743a8c/smart%20(2).png" />
 
 ### 5. Customer Cohort Analysis
 Customer retention analysis based on:
